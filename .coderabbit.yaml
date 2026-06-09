@@ -1,4 +1,4 @@
-enable_free_tier: true
+enable_free_tier: false
 reviews:
   auto_apply_labels: true
   labeling_instructions:
