@@ -1,7 +1,8 @@
+enable_free_tier: false
 reviews:
-    auto_apply_labels: true
-    labeling_instructions:
-      - label: "type:chore"
-        instructions: "Apply when changes are docs / config / housekeeping."
-      - label: "effort:trivial"
-        instructions: "Apply when the change is a single-line edit or trivial."
+  auto_apply_labels: true
+  labeling_instructions:
+    - label: "type:chore"
+      instructions: "Apply when changes are docs / config / housekeeping."
+    - label: "effort:trivial"
+      instructions: "Apply when the change is a single-line edit or trivial."
